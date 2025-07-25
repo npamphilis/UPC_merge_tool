@@ -11,8 +11,8 @@ This version supports **any cleaned file format**.
 Just tell us which columns to use for:
 - UPC
 - Product name (description)
-- Brand (optional)
-- Department/category (optional)
+- Brand
+- Department/category
 
 We'll merge the file with your Partner Dashboard product file as usual.
 """)
